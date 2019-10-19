@@ -106,6 +106,42 @@
 - Caffe: Convolutional architecture for fast feature embedding (2014), Y. Jia et al. [[pdf]](http://arxiv.org/pdf/1408.5093) :sparkles:
 - Theano: new features and speed improvements (2012), F. Bastien et al. *(Bengio)* [[pdf]](http://arxiv.org/pdf/1211.5590)
 
+This collection includes books on all aspects of deep learning. It begins with titles that cover the subject as a whole, before moving onto work that should help beginners expand their knowledge from machine learning to deep learning. The list concludes with books that discuss neural networks, both titles that introduce the topic and ones that go in-depth, covering the architecture of such networks.
+
+### Free Deep Learning Books
+
+- Deep Learning, by Ian Goodfellow, Yoshua Bengio and Aaron Courville
+
+The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular. The online version of the book is now complete and will remain available online for free.
+
+- Deep Learning Tutorial, by LISA Lab, University of Montreal
+
+Developed by LISA lab at University of Montreal, this free and concise tutorial presented in the form of a book explores the basics of machine learning. The book emphasizes with using the Theano library (developed originally by the university itself) for creating deep learning models in Python.
+
+- Deep Learning: Methods and Applications, by Li Deng and Dong Yu
+
+This book provides an overview of general deep learning methodology and its applications to a variety of signal and information processing tasks.
+
+- First Contact with TensorFlow, get started with Deep Learning Programming, by Jordi Torres
+
+This book is oriented to engineers with only some basic understanding of Machine Learning who want to expand their wisdom in the exciting world of Deep Learning with a hands-on approach that uses TensorFlow.
+
+- Neural Networks and Deep Learning, by Michael Nielsen
+
+This book teaches you about Neural networks, a beautiful biologically-inspired programming paradigm which enables a computer to learn from observational data. It also covers deep learning, a powerful set of techniques for learning in neural networks.
+
+- A Brief Introduction to Neural Networks By David Kriesel
+
+This title covers Neural networks in depth. Neural networks are a bio-inspired mechanism of data processing, that enables computers to learn technically similar to a brain and even generalize once solutions to enough problem instances are taught. Available in English and German.
+
+- Neural Network Design (2nd edition) By Martin T. Hagan, Howard B. Demuth, Mark H. Beale and Orlando D. Jess
+
+NEURAL NETWORK DESIGN (2nd Edition) provides a clear and detailed survey of fundamental neural network architectures and learning rules. In it, the authors emphasize a fundamental understanding of the principal neural networks and the methods for training them. The authors also discuss applications of networks to practical engineering problems in pattern recognition, clustering, signal processing, and control systems. Readability and natural flow of material is emphasized throughout the text.
+
+- Neural Networks and Learning Machines (3rd edition) By Simon Haykin
+
+This third edition of Simon Haykin’s book provides an up-to-date treatment of neural networks in a comprehensive, thorough and readable manner, split into three sections. The book begins by looking at the classical approach on supervised learning, before continuing on to kernel methods based on radial-basis function (RBF) networks. The final part of the book is devoted to regularization theory, which is at the core of machine learning.
+
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
