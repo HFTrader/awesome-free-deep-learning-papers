@@ -1,6 +1,7 @@
 # awesome-free-deep-learning-papers
  
  
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z85JMPK)
 
 ### Survey Review
 - Deep learning (2015), Yann LeCun, Yoshua Bengio and Geoffrey Hinton [[pdf]](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) :sparkles:
@@ -139,4 +140,6 @@ This collection includes books on all aspects of deep learning. It begins with t
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z85JMPK)
 
