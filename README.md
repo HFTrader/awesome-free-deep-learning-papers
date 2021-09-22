@@ -1,7 +1,9 @@
 # awesome-free-deep-learning-papers
  
  
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z85JMPK)
+[![PayPal me](https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_100x26.png)](https://paypal.me/HenriqueBucher?locale.x=en_US)
+
+
 
 ### Survey Review
 - Deep learning (2015), Yann LeCun, Yoshua Bengio and Geoffrey Hinton [[pdf]](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) :sparkles:
